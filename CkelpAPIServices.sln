@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CkelpAPIServices", "CkelpAPIServices\CkelpAPIServices.csproj", "{08498CD3-3262-40F5-B7D2-7B1DD1506090}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08498CD3-3262-40F5-B7D2-7B1DD1506090}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08498CD3-3262-40F5-B7D2-7B1DD1506090}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08498CD3-3262-40F5-B7D2-7B1DD1506090}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08498CD3-3262-40F5-B7D2-7B1DD1506090}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37FDD309-13D2-4D9E-A263-F646F38C6681}
+	EndGlobalSection
+EndGlobal
